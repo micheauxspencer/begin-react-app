@@ -7,6 +7,7 @@ folder build
 @http
 get /api
 get /events
+get /event/:id
 
 @tables
 data
